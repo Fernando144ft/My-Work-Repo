@@ -8,7 +8,7 @@ About me.
 * Feature 2: [Describe another feature]
 
 ## Certifications
-![Google Certification](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Google%20Cybersecurity/Google%20Cybersecurity.pdf)
+![Google Certification](Google Cybersecurity/Google Cybersecurity.pdf)
 
 ### Running the Code
 1. Install dependencies with pip.
