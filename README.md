@@ -8,8 +8,10 @@ About me.
 * Feature 2: [Describe another feature]
 
 ## Certifications
-![Google Certification](Google Cybersecurity/Google Cybersecurity.pdf)
-(https://github.com/Fernando144ft/My-Work-Repo/issues/1#issue-2647700706)
+![Google Certifications](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Google%20Cybersecurity)
+
+![Google Cybersecurity](https://github.com/user-attachments/assets/768d9928-29a9-45f8-ad9d-7a74062591f6)
+
 ### Running the Code
 1. Install dependencies with pip.
 2. Run `python main.py` in your terminal.
