@@ -11,7 +11,7 @@
 * ![Performing a Vulnerability Assesment](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Performing_a_Vulnerability_Assessment_4e_-_Fernando_Parra.pdf)
 * ![Using Encryption and Integrity](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Using_Encryption_to_Enhance_Confidentiality_and_Integrity_4e_-_Fernando_Parra.pdf)
 
-### Laboratories Snapshots
+### Laboratory Snapshots
 ![Applying User Authentication and Access Controls (4e)-DomainController01-1708998304069](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Applying%20User%20Authentication%20and%20Access%20Controls%20(4e)-DomainController01-1708998304069.jpeg)
 ![Assessing Common Attack Vectors (4e)-AttackLinux01-1710887172449](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Assessing%20Common%20Attack%20Vectors%20(4e)-AttackLinux01-1710887172449.jpeg)
 ![Configuring Backup and Recovery Functions (4e)-DomainController01-1712806593807](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Configuring%20Backup%20and%20Recovery%20Functions%20(4e)-DomainController01-1712806593807.jpeg)
