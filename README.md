@@ -15,5 +15,5 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 ### These are some of the projects I've made!
 #### ![Python & Databases](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Python%20%26%20Databases/readme.md)
 ![Screenshot 2024-11-10 164905](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Images/Screenshot%202024-11-10%20164905.png)
-#### Python Sports Manager Project
+#### ![Team Management Project](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Team%20Management%20Program/readme.md)
 ![Screenshot 2024-11-10 171023](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Images/Screenshot%202024-11-10%20171023.png)
