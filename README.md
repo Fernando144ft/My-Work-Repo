@@ -7,9 +7,9 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 
 ## Certifications
 <!-- Link to certifications -->
-![Google Certifications](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Google%20Cybersecurity/readme.md)
+### ![Google Certifications](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Google%20Cybersecurity/readme.md)
 <!-- Certification Image -->
-![Google Cybersecurity](https://github.com/user-attachments/assets/768d9928-29a9-45f8-ad9d-7a74062591f6)
+![Google Cybersecurity](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Google%20Cybersecurity/Images/Google%20Cybersecurity.png)
 
 ## Projects/Work
 ### These are some of the projects I've made!
