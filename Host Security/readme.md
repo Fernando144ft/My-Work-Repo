@@ -1,5 +1,17 @@
 # Host Security
 ## JB Learning Fundamentals of Information Systems Security Fourth Edition
+### ![Gap Analysis Plan](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Gap%20Analysis%20Scenario%20-%20Project.pdf)
+<div class="row">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-1.png" style = "width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-2.png" style = "width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-3.png" style = "width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-4.png" style="width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/0082e3062e84a0a8af1b871735a00386595dfb2a/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-5.png" style="width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-6.png" style="width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-7.png" style="width:20%; height:auto;">
+</div>
+
+
 ### PDFs
 * ![Applying User Authentication and Access Controls](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Applying_User_Authentication_and_Access_Controls_4e_-_Fernando_Parra.pdf)
 * ![Assessing Common Attack Vectors](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Assessing_Common_Attack_Vectors_4e_-_Fernando_Parra.pdf)
