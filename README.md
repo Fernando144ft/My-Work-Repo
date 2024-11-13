@@ -15,4 +15,4 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 ### These are some of the projects I've made!
 * ![Python & Databases](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Python%20%26%20Databases/readme.md)
 * ![Team Management Project](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Team%20Management%20Program/readme.md)
-
+* ![Gap Analysis Scenario](https://github.com/Fernando144ft/My-Work-Repo/blob/065090b79273f695a6f56f4884657ad016b2f3a2/Host%20Security/Gap%20Analysis%20Scenario%20-%20Project.pdf)
