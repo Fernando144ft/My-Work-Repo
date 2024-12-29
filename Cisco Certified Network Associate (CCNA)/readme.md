@@ -1,5 +1,5 @@
 # Cisco Certified Network Associate - *Work in progress*
-## Currently Reading Chapters 5 to 6:
+## Currently at Chapters 7 and 8:
 <div class=row>
     <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/a45ca15c2ba7a8cbf0ecdc9a5f2241eb6ef794f5/Cisco%20Certified%20Network%20Associate%20(CCNA)/Images/CCNA%20200-301%20Official%20Cert%20Guide%20Volume%201.png" style = "width:30%; height:auto;"> 
 </div>
