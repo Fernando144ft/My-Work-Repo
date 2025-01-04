@@ -8,7 +8,7 @@
 ### Approach
 To gain basic knowledge, experience, and valuable insights into networking from a Cisco standpoint, I used the **Official Cert Guide CCNA 200-301 Volume 1**, starting with the first Chapter and ending with the 29th, “Building a Wireless LAN.” This, along with LinkedIn courses that complement the content within the textbook fills in the gaps in my knowledge and will support Lab exercises next!
 
-   **Part l**: Introduction to Networking
+   **Part l**: Introduction to Networking  
    **Part II**: Implementing Ethernet LANs  
    **Part Ill**: Implementing VLANs and STP  
    **Part IV**: IPv4 Addressing  
