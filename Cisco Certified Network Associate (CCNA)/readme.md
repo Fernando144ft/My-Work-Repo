@@ -16,11 +16,8 @@ To gain basic knowledge, experience, and valuable insights into networking from 
    **Part VI**: OSPF  
    **Part VII**: IP Version 6  
    **Part VIII**: Wireless LANs  
-
-<br clear="center" />
-
+   
 <br clear="left" />
-
 
 ## LinkedIn Related Certifications
 <div class=row>
