@@ -24,8 +24,6 @@ To gain basic knowledge, experience, and valuable insights into networking from 
 
 ## LinkedIn Related Certifications
 <div class=row>
-    <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/9c44064940c3e5bf4e503ec5b960515a2416ef12/Cisco%20Certified%20Network%20Associate%20(CCNA)/Images/CertificateOfCompletion_Networking%20Foundations%20Local%20Area%20Networks%20LANs%202015_1.png" style = "width:45%; height:auto;" align="left" />
-    <img src  = "https://github.com/Fernando144ft/My-Work-Repo/blob/7b28ec0d141abd8a5a5fea934985a891ecac886e/Cisco%20Certified%20Network%20Associate%20(CCNA)/Images/CertificateOfCompletion_Networking%20Foundations%20Protocols%20and%20CLI%20Tools_1.png" style = "width:45%; height:auto;" align="left" />
+    <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/9c44064940c3e5bf4e503ec5b960515a2416ef12/Cisco%20Certified%20Network%20Associate%20(CCNA)/Images/CertificateOfCompletion_Networking%20Foundations%20Local%20Area%20Networks%20LANs%202015_1.png" style = "width:48%; height:auto;" align="left" />
+    <img src  = "https://github.com/Fernando144ft/My-Work-Repo/blob/7b28ec0d141abd8a5a5fea934985a891ecac886e/Cisco%20Certified%20Network%20Associate%20(CCNA)/Images/CertificateOfCompletion_Networking%20Foundations%20Protocols%20and%20CLI%20Tools_1.png" style = "width:48%; height:auto;" align="right" />
 </div>
-
----
