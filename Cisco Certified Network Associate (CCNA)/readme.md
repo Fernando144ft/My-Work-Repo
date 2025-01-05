@@ -1,12 +1,12 @@
 # Cisco Certified Network Associate - *Work in progress*
-## Currently Reading Chapters 19 and 20 - Total ![65%](https://progress-bar.xyz/65/?style=flat)
+## Currently Reading Chapters 19 and 20 - Total ![72%](https://progress-bar.xyz/72/?style=flat)
 
 <div class=row>
 <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/a45ca15c2ba7a8cbf0ecdc9a5f2241eb6ef794f5/Cisco%20Certified%20Network%20Associate%20(CCNA)/Images/CCNA%20200-301%20Official%20Cert%20Guide%20Volume%201.png" style = "width:30%; height:auto;" align="left" />
 </div>
 
 ### Approach
-To gain basic knowledge, experience, and valuable insights into networking from a Cisco standpoint, I used the **Official Cert Guide CCNA 200-301 Volume 1**, starting with the first Chapter and ending with the 29th, “Building a Wireless LAN.” This, along with LinkedIn courses that complement the content within the textbook fills in the gaps in my knowledge and will support Lab exercises next!
+To gain basic knowledge, experience, and valuable insights into networking from a Cisco standpoint, I used the **Official Cert Guide CCNA 200-301 Volume 1**, starting with the first Chapter and ending with the 29th, “Building a Wireless LAN.” This, along with LinkedIn courses that complement the content within the textbook fills in the gaps in my knowledge and will support Lab exercises and practice exams next!
 
    **Part l**: Introduction to Networking  
    **Part II**: Implementing Ethernet LANs  
