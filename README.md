@@ -22,7 +22,8 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 <br clear="left" />
 
 <!-- CCNA Section -->
-### ![Cisco Certified Network Associate](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Cisco%20Certified%20Network%20Associate%20(CCNA)) - *Work in progress* ![21%](https://progress-bar.xyz/21/?style=flat)
+### ![Cisco Certified Network Associate](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Cisco%20Certified%20Network%20Associate%20(CCNA)) - *Work in progress* ![30%](https://progress-bar.xyz/30/?style=flat)
+Click the link to see the progress ^^^
 
 ## Projects & Work
 ### These are some of the projects I've made!
