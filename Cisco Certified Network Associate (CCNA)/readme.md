@@ -1,5 +1,5 @@
 # Cisco Certified Network Associate - *Currently doing review and labs*
-## Completely Read! ![100%](https://progress-bar.xyz/100/?style=flat)
+## Completely Read! ![100%](https://progress-bar.xyz/100/?style=flat) - Review and Practice Pending
 
 <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/a45ca15c2ba7a8cbf0ecdc9a5f2241eb6ef794f5/Cisco%20Certified%20Network%20Associate%20(CCNA)/Images/CCNA%20200-301%20Official%20Cert%20Guide%20Volume%201.png" style = "width:30%; height:auto;" align="left" />
 
@@ -17,7 +17,7 @@ To gain basic knowledge, experience, and valuable insights into networking from 
    
 <br clear="left" />
 
-## Reading After! ![0%](https://progress-bar.xyz/0/?style=flat)
+## Currently Reading ![12%](https://progress-bar.xyz/12/?style=flat) - Reading Next: Chapter 4
 <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/3353f9a6e906c3cae08205d9cd0f4debe43cc6da/Cisco%20Certified%20Network%20Associate%20(CCNA)/Images/CCNA%20200-301%20Official%20Cert%20Guide%20Volume%202.png" style = "width:30%; height:auto;" align="left" />
 
 ### <ins>Approach<ins/>
