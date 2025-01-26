@@ -3,6 +3,40 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 <br>I am focused on Networking, Network Security, Network Engineering, Python, and Linux.
 <br>Currently seeking Cisco Certified Network Associate Certification and later on, CompTIA Security+ 701.
 
+## Education
+### Graduating from Metropolitan State University of Denver Summer of 2025 <img src = "https://www.msudenver.edu/wp-content/uploads/2021/06/Picture1-1.png" style = "width:30%; height:auto;" align="right" />
+
+#### Related Course Work
+- [ ] __Cybersecurity Required Courses__
+   - [X] Cyber Laws and Regulations | Grade: _A_
+   - [X] Criminal Investigatio | Grade: _A_
+   - [ ] Internship in Cybersecurity | Grade: _TBA_
+   - [ ] Capstone Seminar in Cybersecurity | Grade: _TBA_
+   - [ ] Cybersecurity Elective | Grade: _In Progress_
+
+- [X] __Criminal Justice & Criminology__
+   - [X] White-Collar Crime | Grade: _A_
+   - [X] Organized Crime | Grade: _B_
+   - [X] Federal Law Enforcement | Grade: _A_
+     
+- [ ] __Computer Information Systems__
+   - [X] Foundations of Information Systems | Grade: _B_
+   - [X] Structured Problem Solving | Grade: _A_
+   - [X] Telecommunication Systems and Networking | Grade: _A_
+   - [X] Information Systems Security | Grade: _A_
+   - [ ] Information Systems Security Tools and Techniques | Grade: _In Progress_
+   - [ ] Information Systems Security Management and Information Assurance | Grade: _In Progress_
+     
+- [X] __Computer Science Studies__
+   - [X] Principles of Cybersecurity | Grade: _A+_
+   - [X] Information Assurance | Grade: _A_
+   - [X] Network Security | Grade: _A_
+   - [X] Host Security | Grade: _A_
+   - [X] Application Security | Grade _A-_
+   - [X] Computer Forensics | Grade _A_
+
+<br clear="right" />
+
 ## Certifications
 <!-- Google Certifications -->
 ### ![Google Certifications](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Google%20Cybersecurity) - Completed ![100%](https://progress-bar.xyz/100/?style=flat) 
