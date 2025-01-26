@@ -4,9 +4,9 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 <br>Currently seeking Cisco Certified Network Associate Certification and later on, CompTIA Security+ 701.
 
 ## Education
-### Graduating from Metropolitan State University of Denver Summer of 2025 <img src = "https://www.msudenver.edu/wp-content/uploads/2021/06/Picture1-1.png" style = "width:30%; height:auto;" align="right" />
+### Graduating from Metropolitan State University of Denver Summer of 2025 
 
-#### Related Course Work
+#### Related Course Work <img src = "https://early-bird.msudenver.edu/wp-content/uploads/2024/08/phMSUDenverSignBrickAndGlass22.jpg" style = "width:50%; height:auto;" align="right" />
 - [ ] __Cybersecurity Required Courses__
    - [X] Cyber Laws and Regulations | Grade: _A_
    - [X] Criminal Investigatio | Grade: _A_
