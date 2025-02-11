@@ -17,9 +17,7 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 - [X] __Criminal Justice & Criminology__ 
    - [X] White-Collar Crime | Grade: _A_ 
    - [X] Organized Crime | Grade: _B_ 
-   - [X] Federal Law Enforcement | Grade: _A_
-     
-     <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/b96d374290fc6b1d5c468cb8b0e918f81fd1959d/Awards/Images/Department%20of%20CJC%20Honor%20Roll.png" style = "width:52%; height:auto;" align="right">
+   - [X] Federal Law Enforcement | Grade: _A_ <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/b96d374290fc6b1d5c468cb8b0e918f81fd1959d/Awards/Images/Department%20of%20CJC%20Honor%20Roll.png" style = "width:52%; height:auto;" align="right">
      
 - [ ] __Computer Information Systems__
    - [X] Foundations of Information Systems | Grade: _B_
