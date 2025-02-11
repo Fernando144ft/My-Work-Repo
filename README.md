@@ -6,18 +6,20 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 ## Education
 ### Graduating from Metropolitan State University of Denver Summer of 2025 
 
-#### Related Course Work <img src = "https://early-bird.msudenver.edu/wp-content/uploads/2024/08/phMSUDenverSignBrickAndGlass22.jpg" style = "width:50%; height:auto;" align="right" />
+#### Related Course Work <img src = "https://early-bird.msudenver.edu/wp-content/uploads/2024/08/phMSUDenverSignBrickAndGlass22.jpg" style = "width:49%; height:auto;" align="right" />
 - [ ] __Cybersecurity Required Courses__
    - [X] Cyber Laws and Regulations | Grade: _A_
-   - [X] Criminal Investigatio | Grade: _A_
+   - [X] Criminal Investigation | Grade: _A_
    - [ ] Internship in Cybersecurity | Grade: _TBA_
    - [ ] Capstone Seminar in Cybersecurity | Grade: _TBA_
    - [ ] Cybersecurity Elective | Grade: _In Progress_
 
-- [X] __Criminal Justice & Criminology__
-   - [X] White-Collar Crime | Grade: _A_
-   - [X] Organized Crime | Grade: _B_
+- [X] __Criminal Justice & Criminology__ 
+   - [X] White-Collar Crime | Grade: _A_ 
+   - [X] Organized Crime | Grade: _B_ 
    - [X] Federal Law Enforcement | Grade: _A_
+     
+     <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/b96d374290fc6b1d5c468cb8b0e918f81fd1959d/Awards/Images/Department%20of%20CJC%20Honor%20Roll.png" style = "width:52%; height:auto;" align="right">
      
 - [ ] __Computer Information Systems__
    - [X] Foundations of Information Systems | Grade: _B_
