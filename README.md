@@ -38,9 +38,9 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 <br clear="right" />
 
 ### Fall 2024 Achievement
-<img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/b96d374290fc6b1d5c468cb8b0e918f81fd1959d/Awards/Images/Department%20of%20CJC%20Honor%20Roll.png" style = "width:50%; height:auto;" align="left"> 
-
 ***"Students who qualify for the Honor Roll were enrolled full-time (12 credit hours or more) and earned a GPA of 3.50 or higher during the term listed above (Fall 2024)"***
+
+<img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/b96d374290fc6b1d5c468cb8b0e918f81fd1959d/Awards/Images/Department%20of%20CJC%20Honor%20Roll.png" style = "width:50%; height:auto;" align="left"> 
 
 ***"This recognition is a testament to your hard work, dedication, and academic excellence. Your outstanding performance in the Bachelor of Science in Cybersecurity (CYB) program has not gone unnoticed. Achieving Honor Roll status is a significant accomplishment and reflects your commitment to your studies and your future career goals within the cybersecurity field. As a department, we are proud of your achievements and the example you’ve set for your peers and program"***
    
