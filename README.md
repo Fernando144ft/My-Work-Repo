@@ -42,9 +42,7 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 
 ***"Students who qualify for the Honor Roll were enrolled full-time (12 credit hours or more) and earned a GPA of 3.50 or higher during the term listed above (Fall 2024)"***
 
-***"This recognition is a testament to your hard work, dedication, and academic excellence"***
-
-***"Your outstanding performance in the Bachelor of Science in Cybersecurity (CYB) program has not gone unnoticed. Achieving Honor Roll status is a significant accomplishment and reflects your commitment to your studies and your future career goals within the cybersecurity field. As a department, we are proud of your achievements and the example you’ve set for your peers and program"***
+***"This recognition is a testament to your hard work, dedication, and academic excellence. Your outstanding performance in the Bachelor of Science in Cybersecurity (CYB) program has not gone unnoticed. Achieving Honor Roll status is a significant accomplishment and reflects your commitment to your studies and your future career goals within the cybersecurity field. As a department, we are proud of your achievements and the example you’ve set for your peers and program"***
    
 <br clear="left">
 
