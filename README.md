@@ -37,6 +37,26 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 
 <br clear="right" />
 
+### Fall 2023 Achievement
+<img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/38d74f60f4b3940c5a9e2f45c731387a5d584fb1/Awards/Images/MSU%20Denver%20Honor%20Roll%202023.png" style = "width:50%; height:auto;" align="right">
+
+<em><b>"Congratulations, Fernando Parra! You have been named to the President's Honor Roll for Fall of 2023.
+I am pleased to commend you for your hard work and dedication to learning. The President's Honor
+Roll carries the names of students who, at the time of computation, have achieved a cumulative GPA
+of 3.85 or higher. Computation initially occurs when a student has completed between 30 and 60
+hours at Metropolitan State University of Denver, then again between 60 and 90 hours, and finally
+after more than 90 hours.
+
+The President's Honor Roll is an academic accomplishment that becomes a permanent part of your
+academic history and will be on all transcripts from MSU Denver.
+
+We are proud to have students of your caliber attending Metropolitan State University of Denver and
+demonstrating how to reimagine what's possible in higher education here"
+
+Sincerely, Dr. Janine Davidson</b></em>
+
+<br clear="right" />
+
 ### Fall 2024 Achievement
 ***"Students who qualify for the Honor Roll were enrolled full-time (12 credit hours or more) and earned a GPA of 3.50 or higher during the term listed above (Fall 2024)"***
 
