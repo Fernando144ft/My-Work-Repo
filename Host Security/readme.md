@@ -1,5 +1,4 @@
 # Host Security
-## JB Learning Fundamentals of Information Systems Security Fourth Edition
 ### ![Gap Analysis Plan](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Gap%20Analysis%20Scenario%20-%20Project.pdf)
 <div class="row">
   <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-1.png" style = "width:20%; height:auto;">
@@ -11,7 +10,7 @@
   <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-7.png" style="width:20%; height:auto;">
 </div>
 
-
+## JB Learning Fundamentals of Information Systems Security Fourth Edition Laboratories
 ### PDFs 
 #### Feel Free to Explore all the Lab Assignments.
 * ![Exploring the Seven Domains of a Typical It Infrastructure](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Exploring_the_Seven_Domains_of_a_Typical_IT_Infrastructure_4e.pdf)
