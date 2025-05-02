@@ -1,14 +1,4 @@
 # Host Security
-### ![Gap Analysis Plan](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Gap%20Analysis%20Scenario%20-%20Project.pdf)
-<div class="row">
-  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-1.png" style = "width:20%; height:auto;">
-  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-2.png" style = "width:20%; height:auto;">
-  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-3.png" style = "width:20%; height:auto;">
-  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-4.png" style="width:20%; height:auto;">
-  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/0082e3062e84a0a8af1b871735a00386595dfb2a/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-5.png" style="width:20%; height:auto;">
-  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-6.png" style="width:20%; height:auto;">
-  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-7.png" style="width:20%; height:auto;">
-</div>
 
 ## JB Learning Fundamentals of Information Systems Security Fourth Edition Laboratories
 ### PDFs 
@@ -24,6 +14,7 @@
 * ![Configuring Backup and Recovery Functions](https://github.com/Fernando144ft/My-Work-Repo/blob/761bf187932fcbfc26951c52573a32c1e81e574a/Host%20Security/Configuring_Backup_and_Recovery_Functions_4e.pdf)
 * ![Performing Incident Response and Forensics Analysis](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Performing_Incident_Response_and_Forensic_Analysis_4e_-_Fernando_Parra.pdf)
 
+
 ### Laboratory Snapshots
 <div class=row>
   <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Applying%20User%20Authentication%20and%20Access%20Controls%20(4e)-DomainController01-1708998304069.jpeg" style = "width:40%; height:auto;">
@@ -37,3 +28,24 @@
   <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Performing%20a%20Vulnerability%20Assessment%20(4e)-AttackLinux01-1707261977027.jpeg" style = "width:40%; height:auto;">
   <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Using%20Encryption%20to%20Enhance%20Confidentiality%20and%20Integrity%20(4e)-TargetLinux01-1709092953474.jpeg" style = "width:40%; height:auto;">
 </div>
+
+### ![Risk Assessment](https://github.com/Fernando144ft/My-Work-Repo/tree/c9d8ec5b8670d7b1387ef1c8e169c76773203fea/Host%20Security/Risk%20Assessment)
+<div class="row">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Risk%20Assessment/Images/Project%201%20-%20Fernando%20Parra%20CSS%202754-001-1.png" style = "width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Risk%20Assessment/Images/Project%201%20-%20Fernando%20Parra%20CSS%202754-001-2.png" style = "width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Risk%20Assessment/Images/Project%201%20-%20Fernando%20Parra%20CSS%202754-001-3.png" style = "width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Risk%20Assessment/Images/Project%201%20-%20Fernando%20Parra%20CSS%202754-001-4.png" style = "width:20%; height:auto;">
+</div>
+
+### ![Gap Analysis Plan](https://github.com/Fernando144ft/My-Work-Repo/tree/c9d8ec5b8670d7b1387ef1c8e169c76773203fea/Host%20Security/Gap%20Analysis)
+<div class="row">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-1.png" style = "width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-2.png" style = "width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-3.png" style = "width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-4.png" style="width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/0082e3062e84a0a8af1b871735a00386595dfb2a/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-5.png" style="width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-6.png" style="width:20%; height:auto;">
+  <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Gap%20Analysis%20Scenario%20-%20Project-7.png" style="width:20%; height:auto;">
+</div>
+
+
