@@ -12,16 +12,18 @@
 </div>
 
 
-### PDFs
-* ![Applying User Authentication and Access Controls](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Applying_User_Authentication_and_Access_Controls_4e_-_Fernando_Parra.pdf)
-* ![Assessing Common Attack Vectors](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Assessing_Common_Attack_Vectors_4e_-_Fernando_Parra.pdf)
+### PDFs 
+#### Feel Free to Explore all the Lab Assignments.
 * ![Exploring the Seven Domains of a Typical It Infrastructure](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Exploring_the_Seven_Domains_of_a_Typical_IT_Infrastructure_4e.pdf)
-* ![Implementing Security Monitoring and Logging](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Implementing_Security_Monitoring_and_Logging_4e_-_Fernando_Parra.pdf)
-* ![Implementing an IT Security Policy](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Implementing_an_IT_Security_Policy_4e_-_Fernando_Parra.pdf)
-* ![Performing Incident Response and Forensics Analysis](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Performing_Incident_Response_and_Forensic_Analysis_4e_-_Fernando_Parra.pdf)
+* ![Performing a Vulnerability Assessment](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Performing_a_Vulnerability_Assessment_4e_-_Fernando_Parra.pdf)
 * ![Performing Packet Capture and Traffic Analysis](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Performing_Packet_Capture_and_Traffic_Analysis_4e_-_Fernando_Parra.pdf)
-* ![Performing a Vulnerability Assesment](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Performing_a_Vulnerability_Assessment_4e_-_Fernando_Parra.pdf)
+* ![Applying User Authentication and Access Controls](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Applying_User_Authentication_and_Access_Controls_4e_-_Fernando_Parra.pdf)
 * ![Using Encryption and Integrity](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Using_Encryption_to_Enhance_Confidentiality_and_Integrity_4e_-_Fernando_Parra.pdf)
+* ![Assessing Common Attack Vectors](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Assessing_Common_Attack_Vectors_4e_-_Fernando_Parra.pdf)
+* ![Implementing an IT Security Policy](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Implementing_an_IT_Security_Policy_4e_-_Fernando_Parra.pdf)
+* ![Implementing Security Monitoring and Logging](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Implementing_Security_Monitoring_and_Logging_4e_-_Fernando_Parra.pdf)
+* ![Configuring Backup and Recovery Functions](https://github.com/Fernando144ft/My-Work-Repo/blob/761bf187932fcbfc26951c52573a32c1e81e574a/Host%20Security/Configuring_Backup_and_Recovery_Functions_4e.pdf)
+* ![Performing Incident Response and Forensics Analysis](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Performing_Incident_Response_and_Forensic_Analysis_4e_-_Fernando_Parra.pdf)
 
 ### Laboratory Snapshots
 <div class=row>
