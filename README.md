@@ -105,6 +105,9 @@ Click the link to see the progress ^^^
    <a href = "https://github.com/Fernando144ft/My-Work-Repo/blob/62da822e6f06f7895bef18bf58330b65b2e7d210/LinkedIn%20Learning/CertificateOfCompletion_Security%20Testing%20Nmap%20Security%20Scanning.pdf">
       <!--Security Testing: Nmap Security Scanning--> <img src = "https://github.com/user-attachments/assets/10f7fd76-4be6-4981-aab2-8692599bb5a9" style = "width:20%; height:auto;"/> 
    </a>
+<a href = "https://github.com/Fernando144ft/My-Work-Repo/blob/91d3074112715490d2617fea041a64fe2f58fd9f/LinkedIn%20Learning/CertificateOfCompletion_Learning%20VoIP%20and%20Unified%20Communications.pdf">
+      <!-add hyphens-> <img src = "https://github.com/user-attachments/assets/9c5b97ad-9660-4117-8903-b09b6e5db667" style = "width:20%; height:auto;"/> 
+</a>
 </div>
 
 ## Projects & Work
