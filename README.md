@@ -88,6 +88,22 @@ Sincerely, Dr. Janine Davidson</b></em>
 ### ![Cisco Certified Network Associate](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Cisco%20Certified%20Network%20Associate%20(CCNA)) - *Work in progress* ![30%](https://progress-bar.xyz/30/?style=flat)
 Click the link to see the progress ^^^
 
+### LinkedIn Learning
+<!-- Formatting <a href = "">
+      <!-add hyphens-> <img src = "" style = "width:20%; height:auto;"/> </a>-->
+
+<div class = "row">
+   <a href = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/LinkedIn%20Learning/CertificateOfCompletion_IT%20Security%20Foundations%20Network%20Security.pdf">
+      <!--IT Security Fundations: Network Security--> <img src = "https://github.com/user-attachments/assets/24cc777b-bf96-40e9-bb2d-55963f0695a3" style = "width:20%; height:auto;"/>
+   </a>
+   <a href = "https://github.com/Fernando144ft/My-Work-Repo/blob/113eb0f31c1160abab5730d7f4c6bcf8e99fcb31/LinkedIn%20Learning/CertificateOfCompletion_Learning%20Network%20Troubleshooting.pdf">
+      <!--Learning Network Troubleshooting--> ><img src = "https://github.com/user-attachments/assets/27e44bf9-7a2b-4725-aa87-fe0d68839cbb" style = "width:20%; height:auto;"/>
+   </a>
+   <a href = "https://github.com/Fernando144ft/My-Work-Repo/blob/113eb0f31c1160abab5730d7f4c6bcf8e99fcb31/LinkedIn%20Learning/CertificateOfCompletion_Networking%20Foundations%20Networking%20Basics.pdf">
+      <!--Network Foundations: Network Basics--> <img src = "https://github.com/user-attachments/assets/a7cc435d-c120-4d17-a13c-6b6ea39d8e18" style = "width:20%; height:auto;"/> 
+   </a>
+</div>
+
 ## Projects & Work
 ### These are some of the projects I've made!
 * ![Python & Databases](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Python%20%26%20Databases/readme.md)
