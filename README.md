@@ -97,10 +97,10 @@ Click the link to see the progress ^^^
       <!--IT Security Fundations: Network Security--> <img src = "https://github.com/user-attachments/assets/24cc777b-bf96-40e9-bb2d-55963f0695a3" style = "width:20%; height:auto;"/>
    </a>
    <a href = "https://github.com/Fernando144ft/My-Work-Repo/blob/113eb0f31c1160abab5730d7f4c6bcf8e99fcb31/LinkedIn%20Learning/CertificateOfCompletion_Learning%20Network%20Troubleshooting.pdf">
-      <!--Learning Network Troubleshooting--> ><img src = "https://github.com/user-attachments/assets/27e44bf9-7a2b-4725-aa87-fe0d68839cbb" style = "width:20%; height:auto;"/>
+      <!--Learning Network Troubleshooting--> <img src = "https://github.com/user-attachments/assets/27e44bf9-7a2b-4725-aa87-fe0d68839cbb" style = "width:20%; height:auto;"/>
    </a>
    <a href = "https://github.com/Fernando144ft/My-Work-Repo/blob/113eb0f31c1160abab5730d7f4c6bcf8e99fcb31/LinkedIn%20Learning/CertificateOfCompletion_Networking%20Foundations%20Networking%20Basics.pdf">
-      <!--Network Foundations: Network Basics--> <img src = "https://github.com/user-attachments/assets/a7cc435d-c120-4d17-a13c-6b6ea39d8e18" style = "width:20%; height:auto;"/> 
+      <!--Network Foundations: Networking Basics--> <img src = "https://github.com/user-attachments/assets/a7cc435d-c120-4d17-a13c-6b6ea39d8e18" style = "width:20%; height:auto;"/> 
    </a>
 </div>
 
