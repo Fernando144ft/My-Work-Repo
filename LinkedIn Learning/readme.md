@@ -8,3 +8,4 @@ LinkedIn certifications from LinkedIn Learning courses are great sources that pr
 * ![Networking Foundations Networking Basics](https://github.com/Fernando144ft/My-Work-Repo/blob/1bc0d6f2101675c0eadfc183ec5127efa3e96d4a/LinkedIn%20Learning/CertificateOfCompletion_Networking%20Foundations%20Networking%20Basics.pdf)
 * ![Penetration Testing with Metasploit](https://github.com/Fernando144ft/My-Work-Repo/blob/1bc0d6f2101675c0eadfc183ec5127efa3e96d4a/LinkedIn%20Learning/CertificateOfCompletion_Penetration%20Testing%20with%20Metasploit.pdf)
 * ![Security Testing Nmap Security Scanning](https://github.com/Fernando144ft/My-Work-Repo/blob/1bc0d6f2101675c0eadfc183ec5127efa3e96d4a/LinkedIn%20Learning/CertificateOfCompletion_Security%20Testing%20Nmap%20Security%20Scanning.pdf)
+* ![Learning VoIP and Unified Communications](https://github.com/Fernando144ft/My-Work-Repo/blob/main/LinkedIn%20Learning/CertificateOfCompletion_Learning%20VoIP%20and%20Unified%20Communications.pdf)
