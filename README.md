@@ -4,7 +4,7 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 <br>Currently seeking Cisco Certified Network Associate Certification and later on, CompTIA Security+ 701.
 
 ## Education
-### Graduating from Metropolitan State University of Denver Summer of 2025 
+### Graduating from Metropolitan State University of Denver, Fall of 2025 
 
 #### Related Course Work <img src = "https://early-bird.msudenver.edu/wp-content/uploads/2024/08/phMSUDenverSignBrickAndGlass22.jpg" style = "width:49%; height:auto;" align="right" />
 - [ ] __Cybersecurity Required Courses__
@@ -93,8 +93,3 @@ Click the link to see the progress ^^^
 * ![Python & Databases](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Python%20%26%20Databases/readme.md)
 * ![Team Management Project](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Team%20Management%20Program/readme.md)
 * ![Gap Analysis Scenario](https://github.com/Fernando144ft/My-Work-Repo/blob/065090b79273f695a6f56f4884657ad016b2f3a2/Host%20Security/Gap%20Analysis%20Scenario%20-%20Project.pdf)
-
-## Social Media
-### Find Me On:
-
-### [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/ferdaniel3/) [![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)](https://youtube.com/@daaniell_1?si=hFmjgjDw77ZEr9q6) [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/fernando-parra-313b5a298?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWGEfkE3rQPeg5ilHVOiCZw%3D%3D) [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg)](https://www.facebook.com/fdanni3) 
