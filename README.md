@@ -126,11 +126,11 @@ These certification are not as influential as CompTIA, CCIP/US, or CCNA but are 
 ### Technical Writing [Examples coming Soon]
 
 ## More About Me! [Pictures Coming Soon]
-* I own three Raspberry Pis, a Pi Zero W, Pi 5, and a Pi400 
-* The Pi Zero W is serving as a security camera configured with MediamTX and a custom script that handles internet outages.
-* The Pi 5 is currently as an Qbitorrent server, Samba Share, FTP Server, and StirlingPDF services (currently disabled though).
-* The Pi 400 was installed with Raspbian Lite (no Ui), than I installed the UI afterwards so it does not install any bloatware.
-* I recently spent sometime 3D Printing and designing on Blender.
+* I own three Raspberry Pis: a Pi Zero W, Pi 5, and a Pi 400 
+* The Pi Zero W is serving as a security camera configured with [MediamTX](https://github.com/bluenviron/mediamtx) and a custom script that handles internet outages. It is also placed inside a plant pot for discretion; the camera uses a 3D printed case glued to the plant pot.
+* The Pi 5 is currently used as a Qbitorrent server, Samba Share, FTP Server, and StirlingPDF services (currently disabled though).
+* The Pi 400 was installed with Raspbian Lite (no Ui), then I installed the UI afterward, so it does not install any bloatware.
+* I recently spent some time 3D Printing and designing on Blender.
 * I also got into FPV Drones and practice in a Simulator/Game called TRYP FPV: Drone Racer Simulator.
-* I built my own desktop PC that I used for everyday assigments, software, games, and editing between 2019 and 2020.
-* I have a few Virtual Box Machines (All Kali), although I've used Ubuntu a tiny bit.
+* I built my own desktop PC that I used for everyday assignments, software, games, and editing between 2019 and 2020.
+* I have a few VirtualBox Machines (All Kali), although I've used Ubuntu a tiny bit.
