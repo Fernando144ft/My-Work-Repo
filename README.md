@@ -10,7 +10,6 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
 - [ ] __Cybersecurity Required Courses__
    - [X] Cyber Laws and Regulations | Grade: _A_
    - [X] Criminal Investigation | Grade: _A_
-   - [ ] Internship in Cybersecurity | Grade: _TBA_
    - [ ] Capstone Seminar in Cybersecurity | Grade: _TBA_
    - [X] Cybersecurity Elective (Open-Source Intelligence) | Grade: A
 
