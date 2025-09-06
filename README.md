@@ -70,7 +70,7 @@ Sincerely, Dr. Janine Davidson</b></em>
 ## Certifications
 <!-- Google Certifications -->
 ### ![Google Certifications](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Google%20Cybersecurity) - Completed ![100%](https://progress-bar.xyz/100/?style=flat) 
-### Want to check Legitimacy, Click Here on ![Coursera](https://coursera.org/share/1fdaaedadb9f39df548269bd44f89b5d)
+### Want to check Legitimacy, Click Here on [Coursera](https://coursera.org/verify/professional-cert/S9GLPRUCPLVD).
 <!-- Certification Image -->
 <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Google%20Cybersecurity/Images/Google%20Cybersecurity.png" style = "width:50%; height:auto;" align="left" />
 
