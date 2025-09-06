@@ -91,6 +91,9 @@ Sincerely, Dr. Janine Davidson</b></em>
 ### ![Cisco Certified Network Associate](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Cisco%20Certified%20Network%20Associate%20(CCNA)) - *Work in progress* ![30%](https://progress-bar.xyz/30/?style=flat)
 Click the link to see the progress ^^^
 
+### CIPP/US - Certified Information Privacy Professional/United States *Work in progress* ![22.22%](https://progress-bar.xyz/22/?style=flat)
+Information Coming Soon
+
 ### LinkedIn Learning
 These certification are not as influential as CompTIA, CCIP/US, or CCNA but are still valid. 
 <!-- Formatting <a href = "">
@@ -114,8 +117,20 @@ These certification are not as influential as CompTIA, CCIP/US, or CCNA but are 
 </a>
 </div>
 
-## Projects & Work
+## Projects & Assignments
 ### These are some of the projects I've made!
 * ![Python & Databases](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Python%20%26%20Databases/readme.md)
 * ![Team Management Project](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Team%20Management%20Program/readme.md)
 * ![Gap Analysis Scenario](https://github.com/Fernando144ft/My-Work-Repo/blob/065090b79273f695a6f56f4884657ad016b2f3a2/Host%20Security/Gap%20Analysis%20Scenario%20-%20Project.pdf)
+* WebGoat 8.1.0 (old version requested by the Application Security course I took) [Examples coming soon]
+### Technical Writing [Examples coming Soon]
+
+## More About Me! [Pictures Coming Soon]
+* I own three Raspberry Pis, a Pi Zero W, Pi 5, and a Pi400 
+* The Pi Zero W is serving as a security camera configured with MediamTX and a custom script that handles internet outages.
+* The Pi 5 is currently as an Qbitorrent server, Samba Share, FTP Server, and StirlingPDF services (currently disabled though).
+* The Pi 400 was installed with Raspbian Lite (no Ui), than I installed the UI afterwards so it does not install any bloatware.
+* I recently spent sometime 3D Printing and designing on Blender.
+* I also got into FPV Drones and practice in a Simulator/Game called TRYP FPV: Drone Racer Simulator.
+* I built my own desktop PC that I used for everyday assigments, software, games, and editing between 2019 and 2020.
+* I have a few Virtual Box Machines (All Kali), although I've used Ubuntu a tiny bit.
