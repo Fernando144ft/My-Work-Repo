@@ -1,7 +1,8 @@
 # Fernando D. Parra - *Overview*
 Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
-<br>I am focused on Networking, Network Security, Network Engineering, Python, and Linux.
-<br>Currently seeking Cisco Certified Network Associate Certification and later on, CompTIA Security+ 701.
+<br>Some of my main areas are on Network Engineering, Cybersecurity, and Cyber Law (CIPP/US).
+<br>Currently seeking Cisco Certified Network Associate Certification and Certified Information Privacy Professional.
+<br>Later on I hope to also get CompTIA A+ and Security+. 
 
 ## Education
 ### Graduating from Metropolitan State University of Denver, Fall of 2025 
@@ -12,6 +13,7 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
    - [X] Criminal Investigation | Grade: _A_
    - [ ] Capstone Seminar in Cybersecurity | Grade: _TBA_
    - [X] Cybersecurity Elective (Open-Source Intelligence) | Grade: A
+   - [ ] CIPP/US Certified Information Privacy Professional | Grade: _In Progress_
 
 - [X] __Criminal Justice & Criminology__ 
    - [X] White-Collar Crime | Grade: _A_ 
@@ -23,8 +25,8 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
    - [X] Structured Problem Solving | Grade: _A_
    - [X] Telecommunication Systems and Networking | Grade: _A_
    - [X] Information Systems Security | Grade: _A_
-   - [ ] Information Systems Security Tools and Techniques | Grade: _In Progress_
-   - [ ] Information Systems Security Management and Information Assurance | Grade: _In Progress_
+   - [ ] Information Systems Security Tools and Techniques | Grade: _A_
+   - [ ] Information Systems Security Management and Information Assurance | Grade: _B_
      
 - [X] __Computer Science Studies__
    - [X] Principles of Cybersecurity | Grade: _A+_
@@ -88,6 +90,7 @@ Sincerely, Dr. Janine Davidson</b></em>
 Click the link to see the progress ^^^
 
 ### LinkedIn Learning
+These certification are not as influential as CompTIA, CCIP/US, or CCNA but are still valid. 
 <!-- Formatting <a href = "">
       <!-add hyphens-> <img src = "" style = "width:20%; height:auto;"/> </a>-->
 
