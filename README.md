@@ -1,5 +1,5 @@
 # Fernando D. Parra - *Overview*
-Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver.
+Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver (Hispanic-Serving Institution).
 <br>Some of my main areas are on Network Engineering, Cybersecurity, and Cyber Law (CIPP/US).
 <br>Currently seeking Cisco Certified Network Associate Certification and Certified Information Privacy Professional.
 <br>Later on I hope to also get CompTIA A+ and Security+. 
