@@ -20,13 +20,13 @@ Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver (H
    - [X] Organized Crime | Grade: _B_ 
    - [X] Federal Law Enforcement | Grade: _A_ 
   
-- [ ] __Computer Information Systems__
+- [X] __Computer Information Systems__
    - [X] Foundations of Information Systems | Grade: _B_
    - [X] Structured Problem Solving | Grade: _A_
    - [X] Telecommunication Systems and Networking | Grade: _A_
    - [X] Information Systems Security | Grade: _A_
-   - [ ] Information Systems Security Tools and Techniques | Grade: _A_
-   - [ ] Information Systems Security Management and Information Assurance | Grade: _B_
+   - [X] Information Systems Security Tools and Techniques | Grade: _A_
+   - [X] Information Systems Security Management and Information Assurance | Grade: _B_
      
 - [X] __Computer Science Studies__
    - [X] Principles of Cybersecurity | Grade: _A+_
