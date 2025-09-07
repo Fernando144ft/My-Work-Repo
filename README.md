@@ -1,8 +1,8 @@
 # Fernando D. Parra - *Overview*
 Bachelor's Degree in Cybersecurity at Metropolitan State University of Denver (Hispanic-Serving Institution).
-<br>Some of my main areas are on Network Engineering, Cybersecurity, and Cyber Law (CIPP/US).
+<br>Some of my main areas are in Network Engineering, Cybersecurity, and Cyber Law (CIPP/US).
 <br>Currently seeking Cisco Certified Network Associate Certification and Certified Information Privacy Professional.
-<br>Later on I hope to also get CompTIA A+ and Security+. 
+<br>Later on, I hope to also get CompTIA A+ and Security+. 
 
 ## Education
 ### Graduating from Metropolitan State University of Denver, Fall of 2025 
@@ -53,7 +53,7 @@ The President's Honor Roll is an academic accomplishment that becomes a permanen
 academic history and will be on all transcripts from MSU Denver.
 
 We are proud to have students of your caliber attending Metropolitan State University of Denver and
-demonstrating how to reimagine what's possible in higher education here"
+demonstrating how to reimagine what's possible in higher education here."
 
 Sincerely, Dr. Janine Davidson</b></em>
 
@@ -123,14 +123,37 @@ These certifications are not as influential as CompTIA, CCIP/US, or CCNA, but ar
 * ![Team Management Project](https://github.com/Fernando144ft/My-Work-Repo/blob/main/Python/Team%20Management%20Program/readme.md)
 * ![Gap Analysis Scenario](https://github.com/Fernando144ft/My-Work-Repo/blob/065090b79273f695a6f56f4884657ad016b2f3a2/Host%20Security/Gap%20Analysis%20Scenario%20-%20Project.pdf)
 * WebGoat 8.1.0 (old version requested by the Application Security course I took) [Examples coming soon]
-### Technical Writing [Examples coming Soon]
+### Technical Writing [Examples coming soon]
+
+<br clear="right" />
 
 ## More About Me! [Pictures Coming Soon]
-* I own three Raspberry Pis: a Pi Zero W, Pi 5, and a Pi 400 
-* The Pi Zero W is serving as a security camera configured with [MediamTX](https://github.com/bluenviron/mediamtx) and a custom script that handles internet outages. It is also placed inside a plant pot for discretion; the camera is housed in a 3D-printed case glued to the plant pot.
-* The Pi 5 is currently used as a Qbitorrent server, Samba Share, FTP Server, and StirlingPDF services (currently disabled though).
-* The Pi 400 was installed with Raspbian Lite (no Ui), then I installed the UI afterward, so it does not install any bloatware.
-* I recently spent some time 3D Printing and designing on Blender.
+* I own three Raspberry Pis: a Pi Zero W, Pi 5, and a Pi 400
+<img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/AboutMe/Images/Image%203.jpg" style = "width:20%; height:auto;" align = "right">
+
+The Pi Zero W is serving as a security camera configured with [MediamTX](https://github.com/bluenviron/mediamtx) and a custom script that handles internet outages. It is also covered inside a plant pot; the camera is housed in a 3D-printed case glued to the plant pot. [Example of the code coming soon]
+
+<br clear="right" /> <br />
+
+<img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/AboutMe/Images/Image%2014.jpg" style = "width:40%; height:auto;" align = "right">
+
+The Pi 5 is currently used as a Qbitorrent server, Samba Share, FTP Server, and StirlingPDF services (currently disabled though).
+
+<br clear="right" /> <br />
+
+<img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/AboutMe/Images/Image%2016.jpg" style = "width:40%; height:auto;" align = "right">
+The Pi 400 was installed with Raspbian Lite (no UI), then I installed the UI afterward, so it does not install any bloatware.
+
+<br clear="right" /> <br />
+
+<img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/AboutMe/Images/Image%2013.jpg" style = "width:40%; heith:auto; margin:auto;" align = "right">
+<img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/AboutMe/Images/PXL_20250422_201838755.jpg" style = "width:17%; height:auto;" align = "right">
+
+I recently spent some time 3D Printing and designing in Blender.
+
+<br clear="right" /> <br />
+  
 * I also got into FPV Drones and practice in a Simulator/Game called TRYP FPV: Drone Racer Simulator.
 * I built my own desktop PC that I used for everyday assignments, software, games, and editing between 2019 and 2020.
 * I have a few VirtualBox Machines (All Kali), although I've used Ubuntu a tiny bit.
+* I have programmed a website using the textbook Python Crash Course 2nd Edition (one of their projects).
