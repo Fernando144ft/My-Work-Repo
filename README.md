@@ -95,7 +95,7 @@ Click the link to see the progress ^^^
 Information Coming Soon
 
 ### LinkedIn Learning
-These certification are not as influential as CompTIA, CCIP/US, or CCNA but are still valid. 
+These certifications are not as influential as CompTIA, CCIP/US, or CCNA, but are still valid. 
 <!-- Formatting <a href = "">
       <!-add hyphens-> <img src = "" style = "width:20%; height:auto;"/> </a>-->
 
@@ -127,7 +127,7 @@ These certification are not as influential as CompTIA, CCIP/US, or CCNA but are 
 
 ## More About Me! [Pictures Coming Soon]
 * I own three Raspberry Pis: a Pi Zero W, Pi 5, and a Pi 400 
-* The Pi Zero W is serving as a security camera configured with [MediamTX](https://github.com/bluenviron/mediamtx) and a custom script that handles internet outages. It is also placed inside a plant pot for discretion; the camera uses a 3D printed case glued to the plant pot.
+* The Pi Zero W is serving as a security camera configured with [MediamTX](https://github.com/bluenviron/mediamtx) and a custom script that handles internet outages. It is also placed inside a plant pot for discretion; the camera is housed in a 3D-printed case glued to the plant pot.
 * The Pi 5 is currently used as a Qbitorrent server, Samba Share, FTP Server, and StirlingPDF services (currently disabled though).
 * The Pi 400 was installed with Raspbian Lite (no Ui), then I installed the UI afterward, so it does not install any bloatware.
 * I recently spent some time 3D Printing and designing on Blender.
