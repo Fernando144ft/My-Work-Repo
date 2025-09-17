@@ -29,7 +29,7 @@
   <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Images/Using%20Encryption%20to%20Enhance%20Confidentiality%20and%20Integrity%20(4e)-TargetLinux01-1709092953474.jpeg" style = "width:40%; height:auto;">
 </div>
 
-### ![Risk Assessment](https://github.com/Fernando144ft/My-Work-Repo/tree/c9d8ec5b8670d7b1387ef1c8e169c76773203fea/Host%20Security/Risk%20Assessment)
+### ![Risk Assessment](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Host%20Security/Risk%20Assessment)
 <div class="row">
   <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Risk%20Assessment/Images/Project%201%20-%20Fernando%20Parra%20CSS%202754-001-1.png" style = "width:20%; height:auto;">
   <img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/main/Host%20Security/Risk%20Assessment/Images/Project%201%20-%20Fernando%20Parra%20CSS%202754-001-2.png" style = "width:20%; height:auto;">
