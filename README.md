@@ -89,10 +89,27 @@ Sincerely, Dr. Janine Davidson</b></em>
 
 <!-- CCNA Section -->
 ### ![Cisco Certified Network Associate](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Cisco%20Certified%20Network%20Associate%20(CCNA)) - *Work in progress* ![30%](https://progress-bar.xyz/30/?style=flat)
-Click the link to see the progress ^^^
+<img src = "https://github.com/Fernando144ft/My-Work-Repo/blob/a45ca15c2ba7a8cbf0ecdc9a5f2241eb6ef794f5/Cisco%20Certified%20Network%20Associate%20(CCNA)/Images/CCNA%20200-301%20Official%20Cert%20Guide%20Volume%201.png" style = "width:20%; height:auto;" align="left" />
 
-### CIPP/US - Certified Information Privacy Professional/United States *Work in progress* ![22%](https://progress-bar.xyz/44/?style=flat)
-Information Coming Soon
+***Cisco has a ridiculously high market share in the router and switch marketplace, with more than 80 percent market share in some markets. In many geographies and markets around the world, networking equals Cisco (Odom, 2020).***
+
+### Currently changing to the 2nd Edition for both guides.
+
+<br clear="left" />
+
+### [CIPP/US - Certified Information Privacy Professional/United States](https://github.com/Fernando144ft/My-Work-Repo/blob/main/CIPP-US/readme.md) *Work in progress* ![22%](https://progress-bar.xyz/44/?style=flat)
+<img style = "width:20%; height:auto;" alt="image" align = "left" src="https://github.com/user-attachments/assets/3c160dd5-a968-419b-89fe-56da99e5b3b5" />
+
+### The exam covers five major domains of privacy knowledge:
+   1 - Introduction to the U.S. Privacy Environment  
+   2 - Limits on Private-Sector Collection and Use of Data  
+   3 - Government and Court Access to Private-Sector Information  
+   4 - Workplace Privacy  
+   5 - State Privacy Laws  
+
+*(Chapple & Shelley, 2025)*
+
+<br clear="left" />
 
 ### LinkedIn Learning
 These certifications are not as influential as CompTIA, CCIP/US, or CCNA, but are still valid. 
