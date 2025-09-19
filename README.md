@@ -91,7 +91,7 @@ Sincerely, Dr. Janine Davidson</b></em>
 ### ![Cisco Certified Network Associate](https://github.com/Fernando144ft/My-Work-Repo/tree/main/Cisco%20Certified%20Network%20Associate%20(CCNA)) - *Work in progress* ![30%](https://progress-bar.xyz/30/?style=flat)
 Click the link to see the progress ^^^
 
-### CIPP/US - Certified Information Privacy Professional/United States *Work in progress* ![22.22%](https://progress-bar.xyz/22/?style=flat)
+### CIPP/US - Certified Information Privacy Professional/United States *Work in progress* ![22%](https://progress-bar.xyz/44/?style=flat)
 Information Coming Soon
 
 ### LinkedIn Learning
